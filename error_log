@@ -1,0 +1,1 @@
+[06-Oct-2021 10:21:52 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/musroomc/goal/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
